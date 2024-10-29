@@ -1,8 +1,8 @@
 ## Identitas
 
-Nama: 
+Nama: Sabil Pangestu
 
-NIM : 
+NIM : 607062400079
 
 ## Instruksi
 
